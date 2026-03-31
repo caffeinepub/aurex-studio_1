@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aurexstudio.icp0.io/sitemap.xml
